@@ -32,8 +32,8 @@
 # Lastly, severity codes will be grouped into two categories 
 #     0 = For SEVERITYCODE 0, 1, 2
 #     1 = For SEVERITYCODE 2b and 3
-#
 # This will allow to analyze and generate models which evalute if the accidents results in Serious Injury / Fatality or not.
+# 
 # With the data properly corrected and modified, we will be able to use it in our analysis and models.
 
 

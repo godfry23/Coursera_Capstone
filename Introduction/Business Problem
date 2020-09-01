@@ -1,2 +1,8 @@
 ## Introduction/Business Problem
 
+# In Seattle every year countless car accident occur and in some instances they sadly results in severe injuries or even deaths. 
+# Therefore, the ultimate goal of this project is to look at the circumstances where the events occures as to be able to pin point
+# the most critical factors which result in severe injuries or deaths. The project will result in the development of an algorithmic 
+# model which will help predict the severity of an accident based on different factors such as the weather, road condition, visibility and so on.
+# Following this report, the Seattle autrithies will have at their disposition a better insight on how to efficiently reduce these 
+# kind of accidents.

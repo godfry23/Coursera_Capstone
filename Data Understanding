@@ -1,5 +1,5 @@
-## Data Understanding
-
+<h1>Data Understanding</h1> 
+<hr>
 # Data used for this project is the collection of all collisions provided by the Seattle Police Department and recorded by Traffic Records since 2004 until the present.
 # The target variable will be 'SEVERITYCODE' since it allows to classify the severity of accidents from 0 to 3 within the dataset.
 # The severity codes are as described below:
@@ -22,7 +22,8 @@
 # - SPEEDING: Whether or not speeding was a factor in the collision (Y/N)
 # - LOCATION: Description of the general location of the collision.
 #
-## Data Cleaning and Converting
+<h2>Data Cleaning and Converting</h2>  
+<hr>
 # The data collected is not fully formated to be properly used for our analysis. Therefore, the data will have to eliminate all non used 
 # attributes for our models. Secondly, all remaining data will need to be converted to numerical type and all null or missing data will 
 # to be either discarded.
@@ -31,6 +32,6 @@
 # 1 = For SEVERITYCODE 2b and 3
 # This will allow to analyze and generate models which evalute if the accidents results in Serious Injury / Fatality or not.
 # With the data properly corrected and modified, we will be able to use it in our analysis and models.
-#
+
 
 

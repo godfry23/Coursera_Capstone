@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera Capstone Project
+Coursera Capstone Project by Geoffrey Longtin
